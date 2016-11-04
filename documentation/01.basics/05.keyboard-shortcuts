@@ -1,0 +1,34 @@
+Form
+----
+
+Unmask password field:
+
+<pre>CLTR + ALT</pre>
+
+Trigger okay action:
+
+<pre>CLTR + ALT + O</pre>
+
+Trigger cancel action:
+
+<pre>CLTR + ALT + C</pre>
+
+Trigger submit action:
+
+<pre>CLTR + ALT + S</pre>
+
+
+Misc
+----
+
+Jump to login and logout:
+
+<pre>CLTR + ALT + L</pre>
+
+Toggle admin docks:
+
+<pre>CLTR + ALT + D</pre>
+
+Toggle admin panel:
+
+<pre>CLTR + ALT + P</pre>
