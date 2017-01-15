@@ -1,0 +1,12 @@
+language: php
+
+after_success:
+- sh trigger.sh
+
+notifications:
+ email:
+ - team@redaxscript.com
+ irc:
+ - chat.freenode.net#redaxscript
+ webhooks:
+ - https://webhooks.gitter.im/e/ff9acda2e5faf42e3182
