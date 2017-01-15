@@ -1,7 +1,17 @@
-language: php
+language: nodejs
+
+node_js:
+- 6
+
+install:
+- npm install --global ied
+- ied install
 
 script:
- - sh trigger.sh
+- npm test
+
+after_success:
+- sh trigger.sh
 
 notifications:
  email:
