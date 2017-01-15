@@ -1,7 +1,7 @@
 language: php
 
-after_success:
-- sh trigger.sh
+script:
+ - sh trigger.sh
 
 notifications:
  email:
