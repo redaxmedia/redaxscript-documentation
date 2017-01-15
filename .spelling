@@ -7,9 +7,11 @@ htmlhint
 init
 jscs
 jshint
+mysql
 phpcs
 plugins
 postcss
+postgresql
 readmore
 redaxscript
 rulesets
