@@ -8,6 +8,7 @@ init
 jscs
 jshint
 mysql
+ncss
 phpcs
 plugins
 postcss
@@ -15,6 +16,7 @@ postgresql
 readmore
 redaxscript
 rulesets
+sendmail
 softaculous
 stylelint
 xampp
