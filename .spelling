@@ -21,5 +21,6 @@ redaxscript
 rulesets
 sendmail
 softaculous
+stringify
 stylelint
 xampp
