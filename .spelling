@@ -7,11 +7,13 @@ fantastico
 frontend
 globals
 htmlhint
+iis
 init
 jscs
 jshint
 mysql
 ncss
+nginx
 phpcs
 plugins
 postcss

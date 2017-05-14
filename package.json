@@ -1,13 +1,13 @@
 {
 	"name": "redaxscript-documentation",
 	"description": "Documentation for Redaxscript",
-	"version": "3.0.0",
-	"homepage": "http://docs.redaxscript.com",
+	"version": "3.1.0",
+	"homepage": "https://docs.redaxscript.com",
 	"license": "GPL-3.0",
 	"author":
 	{
 		"name": "Henry Ruhs",
-		"url": "http://redaxmedia.com"
+		"url": "https://redaxmedia.com"
 	},
 	"devDependencies":
 	{
