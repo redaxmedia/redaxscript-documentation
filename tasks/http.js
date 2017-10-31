@@ -9,7 +9,7 @@ module.exports = function ()
 			options:
 			{
 				method: 'post',
-				url: 'https://api.travis-ci.org/repo/redaxmedia%2Fredaxscript-documentation-sync/requests',
+				url: 'https://api.travis-ci.org/repo/redaxscript%2Fredaxscript-documentation-sync/requests',
 				headers:
 				{
 					'Content-Type': 'application/json',
