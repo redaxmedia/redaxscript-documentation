@@ -12,7 +12,7 @@ module.exports = () =>
 				[
 					'documentation/**/*.md',
 					'!documentation/03.languages/02.language-codes.md',
-					'!documentation/07.modules/04.module-hooks.md'
+					'!documentation/06.modules/04.module-hooks.md'
 				]
 			},
 			options:
