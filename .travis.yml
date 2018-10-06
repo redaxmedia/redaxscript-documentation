@@ -3,6 +3,7 @@ language: nodejs
 node_js: 10
 
 install:
+- nvm install 10
 - npm install --global grunt-cli
 - npm install
 
