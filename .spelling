@@ -19,6 +19,7 @@ nginx
 phpcs
 postcss
 redaxscript
+scrutenizer
 sendmail
 softaculous
 stringify
