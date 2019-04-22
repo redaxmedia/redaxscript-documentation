@@ -3,7 +3,7 @@
 	"description": "Documentation for Redaxscript",
 	"version": "4.0.0",
 	"homepage": "https://docs.redaxscript.com",
-	"license": "GPL-3.0",
+	"license": "MIT",
 	"author":
 	{
 		"name": "Henry Ruhs",
@@ -11,7 +11,7 @@
 	},
 	"devDependencies":
 	{
-		"grunt": "1.0.3",
+		"grunt": "1.0.4",
 		"grunt-http": "2.3.1",
 		"grunt-mdspell": "0.4.0",
 		"load-grunt-tasks": "4.0.0"

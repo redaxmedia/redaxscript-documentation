@@ -3,5 +3,5 @@
 	"description": "Documentation for Redaxscript",
 	"version": "4.0.0",
 	"homepage": "https://docs.redaxscript.com",
-	"license": "GPL-3.0"
+	"license": "MIT"
 }
