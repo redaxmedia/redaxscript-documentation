@@ -2,7 +2,6 @@ charset
 config
 concat
 d9t
-dockernized
 fantastico
 filesystem
 frontend
@@ -11,8 +10,7 @@ htmlhint
 iis
 init
 inline
-jscs
-jshint
+json
 minifying
 ncss
 nginx
@@ -26,5 +24,7 @@ sendmail
 softaculous
 stringify
 stylelint
-xampp
+url
 webserver
+xampp
+xml
