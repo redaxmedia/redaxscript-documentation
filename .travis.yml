@@ -1,6 +1,6 @@
 language: nodejs
 
-node_js: 12
+node_js: 14
 
 install:
 - npm install --global grunt-cli

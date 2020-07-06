@@ -11,7 +11,7 @@
 	},
 	"devDependencies":
 	{
-		"grunt": "1.1.0",
+		"grunt": "1.2.0",
 		"grunt-http": "2.3.3",
 		"grunt-mdspell": "0.4.0",
 		"load-grunt-tasks": "5.1.0"
