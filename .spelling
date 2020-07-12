@@ -1,7 +1,6 @@
 charset
 config
 concat
-dialog
 fantastico
 filesystem
 frontend
@@ -12,7 +11,6 @@ init
 inline
 json
 minifying
-ncss
 nginx
 papercut
 phpcs
